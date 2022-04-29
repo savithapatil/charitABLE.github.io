@@ -269,7 +269,7 @@ h5{
 
 
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 768px) {
     .aboutnav {
         grid-row: 1/2;
         grid-column: 7/10; 
