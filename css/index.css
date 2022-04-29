@@ -774,7 +774,7 @@ a:link {text-decoration: none}
         grid-row: 4/5;
         grid-column: 2/12;
         margin-top: 2%;
-        background-image: radial-gradient(#BFACC8, #4D7298);
+        background-image: radial-gradient(#BFACC8, white);
         border-radius: 15px;
         padding-bottom: 3%;
     }
