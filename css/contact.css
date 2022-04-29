@@ -1,4 +1,4 @@
-/* last updated 10:39pm 4/28 */
+/* last updated 5:22pm 4/29 */
 body{
     background-image: linear-gradient(#FFFFFF, #4D7298);
     /* background-color: #FFFFFF; #8AF8FF; */
@@ -250,7 +250,8 @@ nav:focus {background-color: #815355; font-size: 1.2em;}
 #submit-button {
     width: stretch;
     height: 30px;
-    font-family: 'Volkhov', serif;
+/*     font-family: 'Volkhov', serif; */
+    font-family: 'Work Sans', sans-serif;
     font-weight: bolder;
     /* font-size: larger; */
     color: white;
